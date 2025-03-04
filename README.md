@@ -19,7 +19,16 @@
      src="https://github-readme-stats.vercel.app/api/top-langs?username=tonakihan&show_icons=true&layout=donut"
   />
   </picture>
-  <p align="left">My text</p>
+  <p align="left">I'm a junior developer, constantly striving for excellence in pursuit of beauty</p>
+
+  <details open>
+    <summary>
+      <h2><b>Connect with me</b></h2>
+    </summary>
+  <a name="myTelegram" href="https://t.me/Styobnyj_Rycar"><img src="https://github.com/user-attachments/assets/289b7ef7-4c06-4c40-8a42-8b36ef82cb4e" /></a>
+  <a name="myMail" href="mailto:tonakihan@gmail.com"><img src="https://github.com/user-attachments/assets/9f2273ec-0cf5-43aa-afd1-feb3402c0d4c" /></a>
+  </details>
+  
   <br clear="both"/>
 
 <h2>The best my work</h2>
