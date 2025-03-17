@@ -23,7 +23,14 @@
 
   <details open>
     <summary>
-      <h2><b>Connect with me</b></h2>
+      <h3><b>Where you can also find me</b></h3>
+    </summary>
+  <a name="leetcode" href="https://leetcode.com/u/tonakihan/"><img width="48px" src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" /></a>
+  </details>
+
+  <details open>
+    <summary>
+      <h3><b>Connect with me</b></h3>
     </summary>
   <a name="myTelegram" href="https://t.me/Styobnyj_Rycar"><img src="https://github.com/user-attachments/assets/289b7ef7-4c06-4c40-8a42-8b36ef82cb4e" /></a>
   <a name="myMail" href="mailto:tonakihan@gmail.com"><img src="https://github.com/user-attachments/assets/9f2273ec-0cf5-43aa-afd1-feb3402c0d4c" /></a>
@@ -47,3 +54,8 @@
     />
   </picture>
 </a>
+
+<!--
+На заметку
+  Иконки: https://github.com/tandpfun/skill-icons
+-->
