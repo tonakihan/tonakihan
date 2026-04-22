@@ -19,7 +19,7 @@
      src="https://github-readme-stats.vercel.app/api/top-langs?username=tonakihan&show_icons=true&layout=donut"
   />
   </picture>
-  <p align="left">I'm a junior developer, constantly striving for excellence in pursuit of beauty</p>
+  <p align="left">I'm a fullstack developer, constantly striving for excellence in pursuit of beauty</p>
 
   <details open>
     <summary>
@@ -38,19 +38,19 @@
   
   <br clear="both"/>
 
-<h2>The best my work</h2>
-<a href="https://github.com/tonakihan/BlogPlatform">
+<h2>The last work</h2>
+<a href="https://github.com/tonakihan/TG-Bot_AI-editor">
   <picture name="pin-repo">
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin?username=tonakihan&theme=dark&hide_border=true&title_color=53badf&text_color=e2e0cb&bg_color=1a1d1e&repo=BlogPlatform"
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=tonakihan&theme=dark&hide_border=true&title_color=53badf&text_color=e2e0cb&bg_color=1a1d1e&repo=TG-Bot_AI-editor"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin?username=tonakihan&repo=BlogPlatform"
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=tonakihan&repo=TG-Bot_AI-editor"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin?username=tonakihan&repo=BlogPlatform"
+      src="https://github-readme-stats.vercel.app/api/pin?username=tonakihan&repo=TG-Bot_AI-editor"
     />
   </picture>
 </a>
